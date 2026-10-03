@@ -78,4 +78,4 @@ d1,a,1,b,1,
 d1,b,1,c,1,
 d1,b,1,g,1,34 60;217 60
 d1,g,1,h,1,
-```<img width="4110" height="9704" alt="Metro_A_Line+Metro_B_Line+Metro_C_Line+Metro_D_Line+Metro_E_Line+Metro_K_Line_all_merged" src="https://github.com/user-attachments/assets/bb221bdd-ca06-4366-a576-443618fecae2" />
+```
