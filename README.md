@@ -4,9 +4,9 @@ Turn a transit route’s stop patterns into a clean, schematic line diagram.
 
 You give it stop sequences. It gives you positions: which column each stop sits in and where the lines bend, as four small GTFS-style CSV tables.
 
-<img width="4110" height="9704" alt="Metro_A_Line+Metro_B_Line+Metro_C_Line+Metro_D_Line+Metro_E_Line+Metro_K_Line_all_merged" src="https://github.com/user-attachments/assets/a719b28d-0143-4f0f-97d5-22e0cddad30e" />
+<img width="4110" height="4850" alt="Metro_A_Line+Metro_B_Line+Metro_C_Line+Metro_D_Line+Metro_E_Line+Metro_K_Line_dir0_merged" src="https://github.com/user-attachments/assets/22e11068-42c7-4cd7-b56e-5c385f65762f" />
+<img width="2534" height="2462" alt="C+D+E+T+W+R_dir0_merged" src="https://github.com/user-attachments/assets/77e2d4b3-2356-4637-96ac-9548a32aec2a" />
 
-<img width="2586" height="5106" alt="C+D+E+T+W+R_all_merged (1)" src="https://github.com/user-attachments/assets/7f6d82e2-60e0-4fd9-aecb-d91b2837428a" />
 
 ## Files
 
